@@ -1,3 +1,4 @@
 module.exports = [].concat(
-    require("./onboarding")
+    require("./onboarding"),
+    require("./list")
         )
